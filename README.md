@@ -1,1 +1,1 @@
-# modifiedsmmpanel-piprapay-gateway
+# Modified SMM Panel PipraPay Gateway
